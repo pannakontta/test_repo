@@ -1,5 +1,5 @@
 s = 0
-k = 5
+k = s
 
 a = 0
 for i in range(5):
